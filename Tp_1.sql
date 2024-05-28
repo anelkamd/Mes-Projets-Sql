@@ -1,4 +1,4 @@
---CREATE DATABASE besodia
+--CREATE DATABASE Anelka_MD
 
 --CREATE TABLE tClients (
 --	numCli INT NOT NULL,

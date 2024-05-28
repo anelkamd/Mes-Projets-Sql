@@ -70,7 +70,7 @@
 
 --INSERT INTO tArticle (numArticle, designation, categorie, prix)
 --VALUES 
---(1,'Airpod', 'accesoir', 200),
+--(1,'Airpod', 'ecoutteur', 200),
 --(2,'Ipod', 'tablette', 700),
 --(3,'AirpodPro', 'ecoutteur', 250),
 --(4,'MacBok', 'oridinateur', 1500),

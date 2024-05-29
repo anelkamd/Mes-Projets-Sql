@@ -11,6 +11,7 @@
 --	phone INT
 --)
 --GO
+
 --CREATE TABLE tAchat (
 --	numAchat INT NOT NULL, 
 --	numClient INT,
@@ -20,6 +21,7 @@
 --	prixUnitaire DECIMAL(20,2)
 --)
 --GO
+
 --CREATE TABLE tArticle (
 --	numArticle INT NOT NULL,
 --	designation VARCHAR(300) NOT NULL,

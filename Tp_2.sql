@@ -18,5 +18,5 @@ numClient INT,
 numArticle INT,
 dateAchat DATE,
 quantite INT,
---	prixUnitaire DECIMAL(20,2)
+prixUnitaire DECIMAL(20,2)
 --)

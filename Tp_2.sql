@@ -16,7 +16,7 @@ CREATE TABLE tClients (
     numAchat INT NOT NULL, 
     numClient INT,
     numArticle INT,
-dateAchat DATE,
-quantite INT,
-prixUnitaire DECIMAL(20,2)
-)
+    dateAchat DATE,
+    quantite INT,
+    prixUnitaire DECIMAL(20,2)
+    )

@@ -19,4 +19,4 @@ numArticle INT,
 dateAchat DATE,
 quantite INT,
 prixUnitaire DECIMAL(20,2)
---)
+)

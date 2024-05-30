@@ -12,10 +12,10 @@ CREATE TABLE tClients (
     ville VARCHAR(50),
     phone INT
     )
-CREATE TABLE tAchat (
-numAchat INT NOT NULL, 
-numClient INT,
-numArticle INT,
+    CREATE TABLE tAchat (
+    numAchat INT NOT NULL, 
+    numClient INT,
+    numArticle INT,
 dateAchat DATE,
 quantite INT,
 prixUnitaire DECIMAL(20,2)
